@@ -1,0 +1,51 @@
+[
+    {
+      "first_name": "Peter",
+      "last_name": "Novák",
+      "role": "Kapitán",
+      "Cabins": {
+        "ticket_id": 1,
+        "cabin_name": "C123",
+        "cabin_number": 123,
+        "deck": "C"
+      },
+      "Lifeboats": {
+        "capacity": 20,
+        "launchTime": "2024-06-01T22:16:33Z",
+        "survivorCount": 15
+      }
+    },
+    {
+      "first_name": "Eva",
+      "last_name": "Nováková",
+      "role": "Námorník",
+      "Cabins": {
+        "ticket_id": 2,
+        "cabin_name": "C124",
+        "cabin_number": 124,
+        "deck": "C"
+      },
+      "Lifeboats": {
+        "capacity": 20,
+        "launchTime": "2024-06-01T22:16:33Z",
+        "survivorCount": 15
+      }
+    },
+    {
+      "first_name": "Ján",
+      "last_name": "Novák",
+      "role": "Strojník",
+      "Cabins": {
+        "ticket_id": 3,
+        "cabin_name": "C125",
+        "cabin_number": 125,
+        "deck": "C"
+      },
+      "Lifeboats": {
+        "capacity": 20,
+        "launchTime": "2024-06-01T22:16:33Z",
+        "survivorCount": 15
+      }
+    }
+  ]
+
